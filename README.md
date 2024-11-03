@@ -9,7 +9,8 @@ XeroArch is an ArchLinux distro, but made for simplicity and normal ease of use.
 
 If you don't want to use the terminal you can use the "Add/Remove Software" app, search for: "xeroarch-gaming-meta", and install it with a GUI pkg manager.
 
-NOTE: Download the latest version to avoid errors in the online installation mode, the previous wasn't updated to pacman-7, which was causing that issue.
+# NOTE:
+Download the latest version to avoid errors in the online installation mode, the previous wasn't updated to pacman-7, which was causing that issue.
 
 ### SourceForge: 
 https://sourceforge.net/projects/xeroarch/
