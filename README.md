@@ -1,6 +1,6 @@
 ## What is XeroArch?
 
-<img src="https://images2.imgbox.com/7e/46/MmpgLBO0_o.png"
+![Desktop1](https://images2.imgbox.com/7e/46/MmpgLBO0_o.png)
 
 Well configured, just with the necessary software for things like, audio, bluetooth, wi-fi, Nvidia or AMD drivers etc..
 Custom repositories, a few extra useful utilities like a pdf-viewer, timeshift, AUR-helpers, supergfxctl(switch graphics card modes), switcheroo-control(run specific programs with discrete GPU) etc..
