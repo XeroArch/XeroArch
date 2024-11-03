@@ -15,5 +15,7 @@ NOTE: Download the latest version to avoid errors in the online installation mod
 https://sourceforge.net/projects/xeroarch/
 
 ![Desktop1](https://images2.imgbox.com/a7/60/4cl3Uelz_o.png)
+
 ![Desktop2](https://images2.imgbox.com/c3/02/DzBfQMHs_o.png)
+
 ![Desktop3](https://images2.imgbox.com/ec/24/ygJzrE8H_o.png)
