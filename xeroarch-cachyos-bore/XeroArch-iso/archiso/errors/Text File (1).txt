@@ -1,0 +1,17 @@
+==> Initcpio image generation successful
+(16/45) Refreshing PackageKit...
+Error connecting: Could not connect: No such file or directory
+error: command failed to execute correctly
+(17/45) Updating the appstream cache...
+✔ Metadata cache was updated successfully.
+(18/45) Restarting accounts-daemon...
+Running in chroot, ignoring command 'try-restart'
+(19/45) Executing grub-install
+Installing for x86_64-efi platform.
+/usr/bin/grub-install: error: failed to get canonical path of `/boot/efi'.
+error: command failed to execute correctly
+(20/45) Executing grub-mkconfig ...
+/usr/bin/grub-probe: error: cannot find a device for / (is /dev mounted?).
+error: command failed to execute correctly
+(21/45) Reloading system bus configuration...
+  Skipped: Running in chroot.

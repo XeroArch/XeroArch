@@ -1,0 +1,2 @@
+/usr/bin/grub-probe: error: cannot find a device for / (is /dev mounted?).
+error: command failed to execute correctly

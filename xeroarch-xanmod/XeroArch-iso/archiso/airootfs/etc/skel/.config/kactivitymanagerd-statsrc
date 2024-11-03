@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-a1dc6323-ec0d-4949-81e4-971442680462]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-81-a1dc6323-ec0d-4949-81e4-971442680462]
+ordering=preferred://browser,applications:xeroarch-hello-app.desktop,applications:org.manjaro.pamac.manager.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-81-global]
+ordering=preferred://browser,applications:xeroarch-hello-app.desktop,applications:org.manjaro.pamac.manager.desktop
